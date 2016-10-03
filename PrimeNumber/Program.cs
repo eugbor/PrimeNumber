@@ -1,5 +1,7 @@
 ﻿using System;
-
+/// <summary>
+/// Вывод всех простых чисел до указанного числа.
+/// </summary>
 namespace PrimeNumber
 {
     class Program
